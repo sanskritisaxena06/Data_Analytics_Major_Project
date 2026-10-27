@@ -13,8 +13,11 @@ Data_Analytics_Major_Project
 │
 └── Traffic/                                       # Traffic analysis
     │
-    ├── Dashboards/                                # Contains dashboards
+    ├── Dashboards/
     │   └── traffic_dashboard_by_excel.xlsx       # Analysis and dashboard using Excel
+    │   ├── traffic_dashboard_by_jupyter.ipynb         # Analysis and dashboard using Jupyter
+    │   ├── traffic_dashboard_powerbi.pbix               # Analysis and dashboard using PowerBI
+    │
     │
     ├── Database/                                  # Database work
     │   └── traffic_database_jupyter.ipynb        # Creating database
