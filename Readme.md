@@ -13,8 +13,8 @@ Data_Analytics_Major_Project/
 │   └── Datasets/
 │       └── crime_dataset_india.csv
 ├── Documentation/
-│   ├── Final_IOT_Report.docx
-│   ├── Final_IOT_Report.pdf
+│   ├── Final_IOT_Report 1 (1) 1.docx
+│   ├── final_report(by sanskriti saxena).pdf
 │   └── Smart City Analysis System(ppt ny sanskriti).pptx
 ├── Energy/
 │   ├── Dashboards/
@@ -24,7 +24,14 @@ Data_Analytics_Major_Project/
 │   └── Datasets/
 │       └── electricity-consumption-india-city-level-2017-19.csv
 ├── Final/
-│   └── final.pbix
+│   |── Smart_City_Final_Jupyter.ipynb
+|   |── Smart_City_Final_Powerbi.pbix
+|   |── Smart_city_final_excel.xlsx
+|   |── crime.csv
+|   |── energy.csv
+|   |── traffic.csv
+|   └── waste.csv
+|
 ├── Traffic/
 │   ├── Dashboards/
 │   │   ├── traffic_dashboard_by_jupyter.ipynb
@@ -50,3 +57,5 @@ Data_Analytics_Major_Project/
 - **Traffic/**: Smart mobility dataset and traffic dashboards.
 - **Traffic/Database/**: Traffic database creation notebook.
 - **Waste/**: Waste management dataset and analysis notebook.
+
+## BY SANSKRITI SAXENA
